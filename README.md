@@ -60,4 +60,3 @@ Continued use = Acceptance of changes
 <p align="center">
   ❓ Questions? Contact <b>real_ueh</b> via Support Server
 </p>
-```
