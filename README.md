@@ -1,6 +1,6 @@
 > ## Terms of Service
 >
-> By inviting and using this Discord bot (the “Bot”), you agree to the following terms:
+> By inviting and using this Discord bot (the “real bot”), you agree to the following terms:
 >
 > 1. **Usage**  
 > You may use this Bot within your Discord server if:
