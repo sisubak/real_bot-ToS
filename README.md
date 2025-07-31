@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.postimg.cc/pdtZgG3k/1753921999022-e042c316-aabc-43e0-802c-e9c701c9cab4.png" alt="Bot Banner" width="600">
+  <img src="https://i.postimg.cc/fy2sP0Lj/image.png" alt="Bot Banner" width="600">
 </p>
 
 <h1 align="center">📜 Terms of Service</h1>
