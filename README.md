@@ -1,25 +1,63 @@
-> ## Terms of Service
->
-> By inviting and using this Discord bot (the “real bot”), you agree to the following terms:
->
-> 1. **Usage**  
-> You may use this Bot within your Discord server if:
-> - You comply with Discord’s Terms of Service and community guidelines  
-> - You do not use the Bot for any illegal, harmful, or abusive activity  
-> - You understand that functionality may change or stop at any time without notice  
->
-> 2. **Data Collection**  
-> The Bot may collect and store essential data for core features (e.g., XP system, user warnings).  
-> We do not sell, share, or monetize your data. All data is used strictly to deliver and enhance Bot functionality.  
->
-> 3. **Availability & Liability**  
-> This Bot is provided “as is” with no guarantees.  
-> We are not liable for damage, data loss or disruptions caused by usage of the Bot.  
->
-> 4. **Termination**  
-> We reserve the right to ban or block usage of the Bot on any server without notice for violations of these terms.
->
-> 5. **Changes**  
-> The Terms may be updated from time to time. Continued usage implies acceptance of updates.
+<p align="center">
+  <img src="https://i.postimg.cc/pdtZgG3k/1753921999022-e042c316-aabc-43e0-802c-e9c701c9cab4.png" alt="Bot Banner" width="600">
+</p>
 
-For contact, support or questions, reach out via the provided Support Server or GitHub.
+<h1 align="center">📜 Terms of Service</h1>
+
+> **ℹ️ Last Updated:** August 1, 2025  
+> **👤 Bot Creator:** `real_ueh`  
+> **💬 Support Server:** [Join Discord](https://discord.gg/vZdnp3zwBC)
+
+---
+
+### **1. 🖥 Usage Policy**  
+You may use this bot in your Discord server provided:
+- You comply with [Discord's ToS](https://discord.com/terms) and Guidelines
+- No illegal, harmful, or abusive activities
+- Understanding that features may change/stop without notice
+
+---
+
+### **2. 🔒 Data Handling**  
+The bot collects **only essential data** for core functionality:
+```diff
++ XP Systems | Warnings | Core Features
+- We DO NOT sell your data
+- We DO NOT share data with third parties
+- We DO NOT use data for advertising
+```
+
+---
+
+### **3. ⚠️ Liability Disclaimer**  
+```fix
+"AS IS" · NO WARRANTIES PROVIDED
+```
+- Developers are not liable for:
+  - Data loss or corruption
+  - Service interruptions
+  - Damages from bot usage
+
+---
+
+### **4. 🚫 Access Termination**  
+We reserve the right to block bot access from any server without notice for:
+- Terms violations
+- Abusive behavior
+- Security threats
+
+---
+
+### **5. 🔄 Terms Updates**  
+```yaml
+Continued use = Acceptance of changes
+```
+> Updates posted on [Support Server](https://discord.gg/vZdnp3zwBC)  
+> Major changes will receive 7-day notice
+
+---
+
+<p align="center">
+  ❓ Questions? Contact <b>real_ueh</b> via Support Server
+</p>
+```
